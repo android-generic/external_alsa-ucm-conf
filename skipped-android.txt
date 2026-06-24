@@ -1,0 +1,19 @@
+# The following files/symlinks were skipped because their names contain spaces,
+# which causes issues with the Android build system (Make/Soong).
+
+NXP/iMX8/Librem_5/Librem 5.conf
+NXP/iMX8/Librem_5_Devkit/Librem 5 Devkit.conf
+conf.d/simple-card/Librem 5 Devkit.conf
+conf.d/simple-card/Librem 5.conf
+conf.d/tegra/ASUS Google Nexus 7 ALC5642.conf
+conf.d/tegra/Acer Iconia Tab A500 WM8903.conf
+conf.d/tegra/Asus EeePad Slider WM8903.conf
+conf.d/tegra/Asus EeePad Transformer WM8903.conf
+conf.d/tegra/Asus Transformer Infinity TF700T RT5631.conf
+conf.d/tegra/Asus Transformer Pad TF300T WM8903.conf
+conf.d/tegra/Asus Transformer Pad TF300TG RT5631.conf
+conf.d/tegra/Asus Transformer Pad TF300TL RT5631.conf
+conf.d/tegra/Asus Transformer Prime TF201 RT5631.conf
+conf.d/tegra/Compal PAZ00.conf
+conf.d/tegra/LG Optimus 4X HD MAX98089.conf
+conf.d/tegra/LG Optimus Vu MAX98089.conf
